@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/notifyTest/static/css/main.cffd227a.chunk.css",
+    "main.js": "/notifyTest/static/js/main.1eda4c05.chunk.js",
+    "main.js.map": "/notifyTest/static/js/main.1eda4c05.chunk.js.map",
+    "runtime-main.js": "/notifyTest/static/js/runtime-main.822db1fb.js",
+    "runtime-main.js.map": "/notifyTest/static/js/runtime-main.822db1fb.js.map",
+    "static/css/2.d45d6843.chunk.css": "/notifyTest/static/css/2.d45d6843.chunk.css",
+    "static/js/2.311f505e.chunk.js": "/notifyTest/static/js/2.311f505e.chunk.js",
+    "static/js/2.311f505e.chunk.js.map": "/notifyTest/static/js/2.311f505e.chunk.js.map",
+    "static/js/3.b8bd1d83.chunk.js": "/notifyTest/static/js/3.b8bd1d83.chunk.js",
+    "static/js/3.b8bd1d83.chunk.js.map": "/notifyTest/static/js/3.b8bd1d83.chunk.js.map",
+    "index.html": "/notifyTest/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/notifyTest/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.cffd227a.chunk.css.map": "/notifyTest/static/css/main.cffd227a.chunk.css.map",
+    "static/js/2.311f505e.chunk.js.LICENSE.txt": "/notifyTest/static/js/2.311f505e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/notifyTest/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.822db1fb.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.311f505e.chunk.js",
+    "static/css/main.cffd227a.chunk.css",
+    "static/js/main.1eda4c05.chunk.js"
+  ]
+}
